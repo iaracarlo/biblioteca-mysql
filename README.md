@@ -10,9 +10,6 @@ Sistema de gerenciamento de livros desenvolvido em **Python**, utilizando **MySQ
 * PyCharm
 
 ## Funcionalidades:
-
-O sistema possui um menu interativo com as seguintes opções:
-
 * **Cadastrar livro** — adiciona um novo livro ao banco de dados.
 * **Buscar livro** — verifica se um determinado livro está cadastrado.
 * **Listar livros** — exibe todos os livros cadastrados.
