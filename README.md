@@ -24,7 +24,7 @@ O sistema possui um menu interativo com as seguintes opções:
 
 O projeto utiliza o **MySQL** para armazenar os livros.
 
-Ao executar o programa, o banco de dados `biblioteca` é criado automaticamente caso ainda não exista.
+Ao executar o programa, o banco de dados `biblioteca` é criado automaticamente se você ainda não tiver.
 
 A tabela `livros` possui:
 
@@ -33,11 +33,11 @@ A tabela `livros` possui:
 | `id`   | INT          | Identificador único do livro |
 | `nome` | VARCHAR(255) | Nome do livro                |
 
-## Como executar o sistema:
+## Para executar o sistema:
 
 ### 1. Instale o Python
 
-Certifique-se de que o Python está instalado em sua máquina.
+Veja se o Python está instalado.
 
 ### 2. Instale o MySQL
 
